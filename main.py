@@ -1,2 +1,2 @@
-# import urlchecker
+import urlchecker
 import ghost
